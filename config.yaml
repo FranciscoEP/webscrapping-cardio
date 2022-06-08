@@ -1,0 +1,13 @@
+news_sites:
+  milenio:
+    url: https://www.milenio.com
+    queries:
+      homepage_article_links: 'h2 a'
+      article_body: ''
+      article_title: ''
+  elfinanciero:
+    url: https://elfinanciero.com.mx
+    queries:
+      homepage_article_links: 'h2 a'
+      article_body: ''
+      article_title: ''
